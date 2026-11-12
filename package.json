@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "electron-util": "^1.0.0",
-    "tar": "^7.5.22"
+    "tar": "^7.5.23"
   },
   "overrides": {
     "electron": {
